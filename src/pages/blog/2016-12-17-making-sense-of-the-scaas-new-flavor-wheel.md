@@ -2,24 +2,28 @@
 templateKey: blog-post
 title: A Brief Intro To Surveillance Capitalism
 date: 2016-12-17T15:04:10.000Z
-description: An introduction to surveillance capitalism.
+description: An introduction to surveillance capitalism and a call to act.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/blog-post-1-image.jpg
 tags:
   - surveillance capitalism
   - The Age Of Surveillance Capitalism
   - Shoshana Zuboff
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![surveillance capitalism](/img/blog-post-1-image.jpg "Surveillance Capitalism")
 
 In the pursuit of data privacy we are increasingly becoming aware that, "If it's free, then we are the product."
 
-After reading the intro chapter to The Age Of Surveillance Capitalism by Shoshana Zuboff, it is now clear we are the source of a product surplus in the form of raw data profiling our wants and desires. And make no mistake, we are being automated.
+This is not accurate. After reading ***The Age Of Surveillance Capitalism*** by Shoshana Zuboff, I have realized that big data companies make us the *source* of a product in the form of commercialized personal information. 
 
-What is surveillance capitalism? A new economic order that claims human experience as free raw material for hidden commercial practices of extraction, prediction, and sales. -Martin Hilbert, "Technological Information INequality as an Incessantly Moving Target: The Redistribution of Information and Communication Capacities Between 1986 and 2010," Journal of the American Society for Information Science and Technology 65, no. 4 (2013): 821-35, https://doi.org/10.1002/asi.23020
+An outrageous comparison is to that of slavery. One of the biggest evils of history used slaves as free labor to increase* **production*** of a good for the profit of the slave owner.
 
-Remember the industrial revolution? Unprecedented productivity through industrial capitalism has depleted our planet's natural resources as a result. We are now fighting an uphill battle through green initiatives.
+Data driven companies collect our free activity in the form of data to increase* **prediction*** of behavior. This data is commercialized in what is called, ***surveillance capitalism***. There is power in personal data. Predict someone's behavior, and you can anticipate an outcome. 
 
-Not to say that industrial capitalism is bad, but the lack of regulation in something so unprecedented is what caused the damage.
+What is scary about this is that it leads not just to manipulated behavior, but to a potential attack on our freedom. We are not only being robbed of our personal data, we are being influenced and controlled. Don't believe it? Read this post for evidence based examples.
 
-If industrial capitalism has put our natural world in danger, what will be the long after effects of surveillance capitalism do us?
+A though provoking comparison can also be made to the negative effects of the industrial revolution. Unprecedented productivity through industrial capitalism has depleted our planet's natural resources, endangering Earth. We are now fighting an uphill battle through green initiatives.
+
+What will be the damaging long term effects of surveillance capitalism that obsessively improves the anticipation of our actions? How will surveillance capitalism impact our abilities to make rational and free choices? Will we become  such automated sources of behavioral data that we are steered into decisions we never made for ourselves? 
+
+We need to arm and empower ourselves with knowledge about what is happening.
