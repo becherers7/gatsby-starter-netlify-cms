@@ -9,10 +9,9 @@ mainpitch:
   description: "We are a value driven blog dedicated to spreading awareness and
     education. To inspire a response in order to overcome surveillance
     capitalism. "
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Project AERO is for anyone looking to learn more about the problems
+  of modern digital surveillance in everyday life. We are a community focused on
+  education and problem solving.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -26,8 +25,8 @@ intro:
         presented by surveillance capitalism and data exploitation.
     - image: /img/tutorials.png
       text: >
-        Find proven counter measures to take against the forces profiting off of
-        you.  Project AERO is a solution focused community.
+        Find proven counter measures to take against the hidden forces
+        exploiting you.  Project AERO is a solution focused community.
     - image: /img/meeting-space.png
       text: >
         Join a growing community passionate about the same issues as you. Help
