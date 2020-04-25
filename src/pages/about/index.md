@@ -1,19 +1,27 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+We are a value driven blog spreading awareness and education. Inspiring response to overcome surveillance capitalism. Join the AERO community and become part of the solution. We need you.   
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Awareness
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+We can't solve a problem as a community if we are unaware of the problem to begin with. We won't solve a problem if the problem is not a priority. It starts with you. As you become more and more aware, then it's time you begin to share. Your awareness is part of the solution.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Education
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Being aware is the first step, but it is knowledge through educating ourselves that leads us to the truth. With truth comes a clarity of the problem. Each one should teach one. In the words of Malcom X, "Education is the passport to the future, for tomorrow belongs to those who prepare for it today."
+
+### Response
+
+Together we stand, but divided we fall. Empowering ourselves with knowledge allows us to respond to the threat at hand. You are crucial. You have ideas. You are smart. Withholding contribution to society makes us dead. Choose to join the response, contribute to the solution. 
+
+### Overcome
+
+Become aware and share that awareness. Educate yourself and empower others. Choose to respond and inspire response. It starts with you, but it takes a village. As we take more and more action as individuals and as a community, we will surely overcome the problem.
+
+<br/>
+<br/>
+
+*Join the response. Become a member of the AERO today.*
