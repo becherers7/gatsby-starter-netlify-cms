@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: About our values
 ---
-We are a value driven blog spreading awareness and education. Inspiring response to overcome surveillance capitalism. Join the AERO community and become part of the solution. We need you.   
+We are a value driven blog spreading awareness and education. Inspiring response to overcome surveillance capitalism. Join the AERO community and become part of the solution.
 
 ### Awareness
 
