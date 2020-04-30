@@ -14,7 +14,7 @@ description: Project AERO is for anyone looking to learn more about the problems
   education and problem solving.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/glasses-on-the-newspaper-1-1427945-639x479.jpg
       text: >+
         You will find educational resources from our articles. Such as
         references to credentialed books, research, podcasts, and more.
