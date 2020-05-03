@@ -30,10 +30,11 @@ intro:
         ourselves and reference in our blog. We are an Amazon Affiliate so we
         make a small commission off of any books you buy through us. We are
         grateful for any support.
-    - image: /img/meeting-space.png
+    - image: /img/hands-1314632.jpg
       text: >
         Join a growing community passionate about the same issues as you. Help
-        spread awareness and education. Join the response.
+        spread awareness and education. Join the response and help create a
+        positive outcome.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
