@@ -4,7 +4,7 @@ title: What is personal identifiable information (PII)
 date: 2020-05-03T20:53:09.822Z
 description: >+
   You'll find us reference PII numerous times through our blog. So it is
-  important that we define PII at a high level, 
+  important that we define PII at a high level.
 
 featuredpost: true
 featuredimage: /img/gold-padlock-locking-door-164425.jpg
@@ -12,6 +12,8 @@ tags:
   - PII
   - legal
 ---
+![](/img/gold-padlock-locking-door-164425.jpg "personal identifiable information (PII)")
+
 The official definition given by the Department of Labor for PII is given below. 
 
 Any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means. 
