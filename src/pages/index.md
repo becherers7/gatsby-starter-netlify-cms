@@ -21,13 +21,15 @@ intro:
 
     - image: /img/magnifying-glass-1254223.jpg
       text: >
-        Use our chrome extension to prevent targeted ads. We run background
-        queries in Google to randomize your history. Thus decreasing the
-        accuracy ad companies can predict your behavior.
-    - image: /img/tutorials.png
+        Use our chrome extension search scrambler to prevent targeted ads. We
+        run randomized background queries in your browser to decrease the
+        accuracy of behavioral algorithms that determine targeted advertising.
+    - image: /img/book-1421245.jpg
       text: >
-        Find proven counter measures to take against the hidden forces
-        exploiting you.  Project AERO is a solution focused community.
+        Check out our book club. The books we list are ones that we have read
+        ourselves and reference in our blog. We are an Amazon Affiliate so we
+        make a small commission off of any books you buy through us. We are
+        grateful for any support.
     - image: /img/meeting-space.png
       text: >
         Join a growing community passionate about the same issues as you. Help
