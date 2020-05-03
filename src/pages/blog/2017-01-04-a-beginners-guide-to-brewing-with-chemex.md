@@ -1,29 +1,33 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: Rigged Private Policies
 date: 2017-01-04T15:04:10.000Z
+description: The game of privacy is rigged. Privacy and terms of service
+  policies enforces an all or nothing ultimatum. Either be part a digital
+  network where your online presence is tracked and mined, or don't be part of
+  it at all.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/blog-post-1-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/blog-post-1-image.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Privacy policies and terms of service are devolved both morally and democratically.  Our rights to information ownership have been restructured to be at the mercy of our digital masters. Personal data is not controlled at the citizen level but by corporations seeking to predict our behavior.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+## Contracts are now paperless.
 
-## The little secrets of Chemex brewing
+Contracts such as terms of service used to have a higher cost. One of the most important of these costs is the opportunity cost of reading through a large contract. Now that contracts are paperless, we simply have a checkbox and an encouraging green button to confirm we "read" through and agree to online terms. 
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Why would we both to read them? In 2008 two professors at Carnegie Mellon calculated that reasonable reading of all the privacy policies that one encounters in a year would require 76 full business days with a *national* opportunity cost of $781 billion. This was just in 2008, it is way higher now. 
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+These digital documents are easily changeable and at a moments notice. Companies can easily extract additional beneficial data from consumers completely unrelated to the product the user signed up for. At this point you might want to know specific examples of data collected. Below are just a few examples.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+1. Your photos may be for sale.
+2. Your data can be given to law enforcement without consent.
+3. You could be banned from filing class action law suits.
+4. Even if you delete content the company may hold on to it.
+5. You might not ever be able to delete an account you create.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Being given an ultimatum is unfair in a digital world where we claim "free" access to information.  This issue is not black and white. The problem here is that there is no dialogue what so ever between company and consumer. Nothing that allows us to barter or decide how much data we'll give in exchange for product use. We are walked all over.
