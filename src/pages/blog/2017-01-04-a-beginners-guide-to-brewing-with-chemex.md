@@ -3,9 +3,9 @@ templateKey: blog-post
 title: Rigged Private Policies
 date: 2017-01-04T15:04:10.000Z
 description: The game of privacy is rigged. Privacy and terms of service
-  policies enforces an all or nothing ultimatum. Either be part a digital
-  network where your online presence is tracked and mined, or don't be part of
-  it at all.
+  policies enforces an all or nothing ultimatum. Either be part of a digital
+  network where your online presence is tracked and mined or don't be part of it
+  at all.
 featuredpost: false
 featuredimage: /img/blog-post-1-image.jpg
 tags:
