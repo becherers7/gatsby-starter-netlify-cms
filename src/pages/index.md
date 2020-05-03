@@ -22,8 +22,8 @@ intro:
     - image: /img/magnifying-glass-1254223.jpg
       text: >
         Use our chrome extension search scrambler to prevent targeted ads. We
-        run randomized background queries in your browser to decrease the
-        accuracy of behavioral algorithms that determine targeted advertising.
+        run randomized background queries in your browser to decrease the the
+        accuracy of targeted advertising.
     - image: /img/book-1421245.jpg
       text: >
         Check out our book club. The books we list are ones that we have read
