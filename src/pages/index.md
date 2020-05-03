@@ -16,13 +16,14 @@ intro:
   blurbs:
     - image: /img/glasses-on-the-newspaper-1-1427945-639x479.jpg
       text: >+
-        You will find educational resources from our articles. Such as
-        references to credentialed books, research, podcasts, and more.
+        You will find educational resources Such as references to credentialed
+        books, research, podcasts, and more. Checkout our blog today. 
 
-    - image: /img/coffee-gear.png
+    - image: /img/magnifying-glass-1254223.jpg
       text: >
-        Real life, evidence based, horror stories. Examples of the dangers
-        presented by surveillance capitalism and data exploitation.
+        Use our chrome extension to prevent targeted ads. We run background
+        queries in Google to randomize your history. Thus decreasing the
+        accuracy ad companies can predict your behavior.
     - image: /img/tutorials.png
       text: >
         Find proven counter measures to take against the hidden forces
