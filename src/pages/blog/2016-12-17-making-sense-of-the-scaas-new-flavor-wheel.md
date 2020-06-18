@@ -8,8 +8,6 @@ featuredpost: false
 featuredimage: /img/blog-post-1-image.jpg
 tags:
   - surveillance capitalism
-  - The Age Of Surveillance Capitalism
-  - Shoshana Zuboff
 ---
 ![surveillance capitalism](/img/blog-post-1-image.jpg "Surveillance Capitalism")
 
